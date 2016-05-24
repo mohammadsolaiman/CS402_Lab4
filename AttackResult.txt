@@ -1,0 +1,7 @@
+		RowTranspositionAttack
+
+PlainText:	CRYPTOGRAPHY
+
+CipherText:	YGHPRYROPCTA
+
+Key:	3201
